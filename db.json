@@ -1,0 +1,21 @@
+{
+    "dashboard":{
+        "posts":5,
+        "likes":100,
+        "followers":20,
+        "following":50
+    },
+    "news":[{
+        "id": 1,
+        "title": "provident ",
+        "description": "sum rerum est autem sunt rem eveniet architecto",
+        "category":"sports"
+   },
+   {
+    "id": 2,
+    "title": "provident ",
+    "description": "sum rerum est autem sunt rem eveniet architecto",
+    "category":"sports"
+}
+]
+}
