@@ -36,3 +36,30 @@
     transform: rotate(360deg);
   }
 }
+.container{
+  text-align: center;
+}
+input{
+  height: 50px;
+    width: 55px;
+    
+}
+h1{
+  color:grey;
+}
+.quantity {
+  color: #000000;
+  font-size: 30px;
+  padding: 10px;
+  border:1px solid black;
+  display: inline-block;
+}
+/* .quantity__minus{
+  padding-right: 1em;
+  padding-bottom: 10px;
+} */
+
+/* .quantity__plus{
+  padding-left: 1em;
+} */
+
